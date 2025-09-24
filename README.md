@@ -61,6 +61,7 @@ ds_Aqsa_Chivelkar/
 │
 ├── outputs/ # Stores plots, charts, images
 │ └── chart1.png
+│ └── chart2.png
 │
 ├── ds_report.pdf # Final summarized report
 └── README.md # Project documentation
