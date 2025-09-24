@@ -1,5 +1,4 @@
 # Data_Science_internship_assigment
-# Trader Behavior and Market Sentiment Analysis
 
 This project analyzes the relationship between trader behavior and Bitcoin market sentiment using two key datasets:
 
