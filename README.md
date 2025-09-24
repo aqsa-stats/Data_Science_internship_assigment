@@ -45,7 +45,9 @@ Install dependencies with:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
 ```
-**Folder Structure**
+
+### Folder Structure
+```bash 
 ds_Aqsa_Chivelkar/
 │
 ├── notebook_1.ipynb # Main Google Colab notebook
@@ -61,5 +63,6 @@ ds_Aqsa_Chivelkar/
 │
 ├── ds_report.pdf # Final summarized report
 └── README.md # Project documentation
+```
 --------
 
